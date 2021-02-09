@@ -1,2 +1,2 @@
 # vhbot
-A precreated discord bot with a online dashboard.
+This bot will be published very soon.
